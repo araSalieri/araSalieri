@@ -9,6 +9,18 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
+<div align="center">
+
+`> 少しずつ、でも確実に。`
+
+</div>
+
+<div align="center">
+
+`> currently compiling dreams into production...`
+
+</div>
+
 **`Software Engineer · Backend Systems · AI Engineer`**
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/kawiswara)
@@ -68,15 +80,3 @@ fn main() {
 - 📖 Learning **Rust** — working through the Rust Book
 
 ---
-
-<div align="center">
-
-`> 少しずつ、でも確実に。`
-
-</div>
-
-<div align="center">
-
-`> currently compiling dreams into production...`
-
-</div>
