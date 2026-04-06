@@ -27,7 +27,6 @@
 ```rust
 struct Engineer {
     name: &'static str,
-    location: &'static str,
     experience: &'static str,
     languages: Vec<&'static str>,
     stack: Vec<&'static str>,
