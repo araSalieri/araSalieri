@@ -24,6 +24,7 @@
 **`Software Engineer · Backend Systems · AI Engineer`**
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/kawiswara)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/araSalieri)
 [![JLPT](https://img.shields.io/badge/JLPT-N3%20%7C%20Studying%20N2-red?style=for-the-badge)]()
 
 </div>
