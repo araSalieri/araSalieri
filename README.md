@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Ara+Salieri)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=5000&color=24A0ED&center=true&vCenter=true&width=435&lines=Ara+Salieri)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -24,6 +24,8 @@
 
 ---
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 ```rust
 struct Engineer {
     name: &'static str,
@@ -36,7 +38,7 @@ struct Engineer {
 
 fn main() {
     let me = Engineer {
-        name: "Ara",
+        name: "Ara Salieri",
         experience: "6+ years backend engineering",
         languages: vec!["Rust", "Go", "Python", "JavaScript"],
         stack: vec!["Next.js", "Docker", "K8s", "PostgreSQL", "Redis"],
@@ -73,4 +75,3 @@ fn main() {
 - 🗾 Preparing for a career move to **Japan** — studying for **JLPT N2**
 - 📖 Learning **Rust** — working through the Rust Book
 
----
