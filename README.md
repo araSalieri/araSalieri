@@ -29,7 +29,6 @@ struct Engineer {
     name: &'static str,
     experience: &'static str,
     languages: Vec<&'static str>,
-    stack: Vec<&'static str>,
     current_goal: &'static str,
 }
 
@@ -38,11 +37,13 @@ fn main() {
         name: "Ara Salieri",
         experience: "6+ years backend engineering",
         languages: vec!["Rust", "Go", "Python", "JavaScript"],
-        stack: vec!["Next.js", "Docker", "K8s", "PostgreSQL", "Redis"],
-        current_goal: "Relocating to Japan | JLPT N2 prep",
+        current_goal: "preparing JLPT N2 and relocating to Japan",
     };
 
-    println!("Hello, world. I'm {}.", me.name);
+    println!(
+        "Hello, world. I'm {}. I've {} using {:?}. My current goals are {}",
+        me.name, me.experience, me.languages, me.current_goal
+    );
 }
 ```
 
